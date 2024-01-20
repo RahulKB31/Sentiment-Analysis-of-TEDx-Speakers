@@ -1,4 +1,4 @@
-# TED Talks Text Sentiment Analysis Using R
+# TED Talks Sentiment Analysis Using R
 
 This repository contains a text analysis project comparing the TED Talks of two speakers: Chris Kluwe and Louie Schwartzberg. The analysis focuses on sentiment, word counts, and comparisons between the speakers. Here's a brief overview of the project:
 
